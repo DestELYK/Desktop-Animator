@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desktop Animator", "Desktop Animator\Desktop Animator.csproj", "{18D6A79C-905F-41AB-B65D-07E884A8C36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D6A79C-905F-41AB-B65D-07E884A8C36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D6A79C-905F-41AB-B65D-07E884A8C36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D6A79C-905F-41AB-B65D-07E884A8C36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D6A79C-905F-41AB-B65D-07E884A8C36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59C32472-42B6-4C67-9959-5F01B5C1C0F1}
+	EndGlobalSection
+EndGlobal
